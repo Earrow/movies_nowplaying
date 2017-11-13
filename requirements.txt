@@ -1,0 +1,6 @@
+requests
+apscheduler
+lxml
+fontTools
+pybloom-mirror
+pymongo
