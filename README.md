@@ -28,3 +28,5 @@ receiver = ******@qq.com
 ```
 python3 main.py
 ```
+
+博客地址：http://www.jianshu.com/p/ab0245dfee8f
